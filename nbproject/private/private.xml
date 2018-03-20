@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/Statistik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mUser.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cPemasaran.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cInformasiMasuk.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mLaporan.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/Mitra.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mInformasiMasuk.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/informasi.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/laporan.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/InformasiPetani.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mPemesanan.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/awal.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cInformasiPetani.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cBeranda.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mInformasiPabrik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cMitra.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/Beranda.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/Login.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cKualitas.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/Pemesanan.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/InformasiPabrik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/koneksi.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/BerandaPabrik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cBerandaTani.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cStatistik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cAwal.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/kualitas.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/tembakau.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/itobacco/ITobacco.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/pemasaran.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/InformasiMasuk.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cLaporan.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cLogin.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/img/login.jpg</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cBerandaPabrik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cPemesanan.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/PemesananMasuk.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mMitra.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/view/BerandaTani.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Model/mKualitas.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cInformasiPabrik.java</file>
+            <file>file:/E:/Sistem%20Informasi/NetBeansProjects/NetBeansProjects/iTobacco/src/Controler/cPemesananMasuk.java</file>
+        </group>
+    </open-files>
+</project-private>
